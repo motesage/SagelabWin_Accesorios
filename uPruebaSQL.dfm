@@ -65,9 +65,9 @@ object Form1: TForm1
     LibraryName = 'dbexpmda.dll'
     Params.Strings = (
       'Database=sage'
-      'HostName=190.246.17.111:3381'
-      'User_name=sage'
-      'Password=Sage2016##')
+      'HostName=190.xxx.xxx.xxx:xxxx'
+      'User_name=xxx'
+      'Password=xxx2016##')
     VendorLib = 'not used'
     Left = 440
     Top = 144
